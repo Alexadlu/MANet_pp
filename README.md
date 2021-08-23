@@ -9,7 +9,7 @@ PDF: [RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss]
 
 Please kindly cite this paper in your publications if it helps your research:
 ```
-@article{Lu2021RGBTTV,
+@article{Lu2021manet++,
   title={RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss},
   author={Andong Lu and Chenglong Li and Yuqing Yan and Jin Tang and B. Luo},
   journal={IEEE Transactions on Image Processing},
